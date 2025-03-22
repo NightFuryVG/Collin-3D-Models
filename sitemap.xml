@@ -1,3 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://clonndev.starlightcommunity.net</loc><changefreq>daily</changefreq><priority>1.00</priority></url><url><loc>https://clonndev.starlightcommunity.net/downloads</loc><changefreq>daily</changefreq><priority>0.80</priority></url><url><loc>https://clonndev.starlightcommunity.net/privacy</loc><changefreq>daily</changefreq><priority>0.80</priority></url><url><loc>https://clonndev.starlightcommunity.net/archive/welcome</loc><changefreq>daily</changefreq><priority>0.60</priority></url><url><loc>https://clonndev.starlightcommunity.net/404</loc><changefreq>daily</changefreq><priority>0.80</priority></url><url><loc>https://clonndev.starlightcommunity.net/legal-notice</loc><changefreq>daily</changefreq><priority>0.80</priority></url></urlset>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.collin3dmodels.com</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://www.collin3dmodels.com/downloads</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.collin3dmodels.com/privacy</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.collin3dmodels.com/404</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.80</priority>
+	</url>
+</urlset>
